@@ -8,3 +8,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Tiempo de creacion de la imagen
 Demora un rato ya que despues de la linea 7 (RUN npm install) descarga todas las dependencias (node_modules) es una carpeta pesada
+
+## port
+Nginx se expone en el puerto 80
