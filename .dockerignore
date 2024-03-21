@@ -1,0 +1,16 @@
+.git
+
+.firebase
+
+.editorconfig
+
+/node_modules
+
+/vscode
+
+*.zip
+/dist
+.gitignore
+
+*.md
+
